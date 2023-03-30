@@ -1,0 +1,15 @@
+C:\Users\omarc\Documents\Compiladores\Analex\bin\Debug\net6.0\Analex.exe
+C:\Users\omarc\Documents\Compiladores\Analex\bin\Debug\net6.0\Analex.deps.json
+C:\Users\omarc\Documents\Compiladores\Analex\bin\Debug\net6.0\Analex.runtimeconfig.json
+C:\Users\omarc\Documents\Compiladores\Analex\bin\Debug\net6.0\Analex.dll
+C:\Users\omarc\Documents\Compiladores\Analex\bin\Debug\net6.0\Analex.pdb
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.csproj.AssemblyReference.cache
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.AssemblyInfoInputs.cache
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.AssemblyInfo.cs
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.csproj.CoreCompileInputs.cache
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.dll
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\refint\Analex.dll
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.pdb
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\Analex.genruntimeconfig.cache
+C:\Users\omarc\Documents\Compiladores\Analex\obj\Debug\net6.0\ref\Analex.dll
